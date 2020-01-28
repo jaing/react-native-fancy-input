@@ -27,12 +27,6 @@
     "shade-blend-color": "^1.0.0"
   },
   "peerDependencies": {
-    "react": "*",
-    "react-native": "*"
-  },
-  "devDependencies": {
-    "react-native": "^0.61.5",
-    "react": "^16.9.0",
-    "react-dom": "^16.9.0"
+    "react-native": ">= 0.25"
   }
 }
