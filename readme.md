@@ -6,7 +6,7 @@ I present you a simple input component that is fancy, easy to use and super flex
 * Material like behaviour
 * Flexible
 
-![exmaples](https://gifyu.com/image/qWoQ)
+![exmaples](https://s5.gifyu.com/images/Input.gif)
 
 ## Installation
 
