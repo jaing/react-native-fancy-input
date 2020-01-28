@@ -1,0 +1,38 @@
+{
+  "name": "react-native-fancy-input",
+  "version": "1.0.0",
+  "main": "index.js",
+  "typings": "index.d.ts",
+  "author": "Kamil Thomas",
+  "license": "MIT",
+  "homepage": "https://github.com/jaing/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jaing/react-native-fancy-input"
+  },
+  "bugs": {
+    "url": "https://github.com/jaing/react-native-fancy-input/issues"
+  },
+  "keywords": [
+    "input",
+    "react-native",
+    "animated input",
+    "awesome input",
+    "react-component",
+    "ios",
+    "android"
+  ],
+  "dependencies": {
+    "prop-types": "^15.7.2",
+    "shade-blend-color": "^1.0.0"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "devDependencies": {
+    "react-native": "^0.61.5",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  }
+}
