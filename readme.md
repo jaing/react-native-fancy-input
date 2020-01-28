@@ -1,4 +1,4 @@
-#React Native Fancy Input
+# React Native Fancy Input
 I present you a simple input component that is fancy, easy to use and super flexible. 
 
 ## Features
