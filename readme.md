@@ -6,6 +6,8 @@ I present you a simple input component that is fancy, easy to use and super flex
 * Material like behaviour
 * Flexible
 
+![exmaples](https://gifyu.com/image/qWoQ)
+
 ## Installation
 
     yarn add react-native-fancy-input
